@@ -1,0 +1,4 @@
+Phase 1: Init
+Phase 2: Website
+Phase 3: App
+Phase 4: DAO
